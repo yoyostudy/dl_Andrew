@@ -8,5 +8,5 @@ The reason I am creating this repository are the following:
 
 2. I can frequently review my notes to refresh my memory and uncover shortcomings
 
-3. Some of the induction in the video is imcomplete, and I try to complete those missed part because I really hate omitting those important details. 😠
+3. Some of the induction in the video is incomplete, and I try to complete those missed part because I really hate omitting those important details. 😠
 
