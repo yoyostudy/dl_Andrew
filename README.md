@@ -4,9 +4,9 @@
 
 The reason I am creating this repository are the following:
 
-1. Taking notes help me to organize the content so as to have a deeper understanding of it.
+1. Taking notes help me to organize the content so as to have a deeper understanding of it. 
 
-2. I can frequently review my notes to refresh my memory and uncover shortcomings
+2. I can frequently review my notes to refresh my memory and uncover shortcomings. 🧠
 
 3. Some of the induction in the video is incomplete, and I try to fill in those missed part because I really hate omitting those important details. 😠
 
