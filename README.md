@@ -2,7 +2,7 @@
 
 👏 This repository is a record and the note I took for the course Deep Learning Specialization in Coursera
 
-The reason I am creating this repository are the following:
+💡 The reason I am creating this repository are the following:
 
 1. Taking notes help me to organize the content so as to have a deeper understanding of it. 
 
