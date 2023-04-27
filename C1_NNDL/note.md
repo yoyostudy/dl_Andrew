@@ -59,6 +59,7 @@
         - $w_j \leftarrow w_j - \alpha dw_j , \ j = 1,..., n_x$
         - $b   \leftarrow b - \alpha db$
       
+2. Shallow Neural Network
     
     
     
