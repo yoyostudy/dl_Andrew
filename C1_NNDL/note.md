@@ -60,6 +60,10 @@
         - $b   \leftarrow b - \alpha db$
       
 2. Shallow Neural Network
+
+3. Activation Functions and their derivatives
+
+
     
     
     
